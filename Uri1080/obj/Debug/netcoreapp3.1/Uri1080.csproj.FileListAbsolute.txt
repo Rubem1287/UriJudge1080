@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.exe
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.deps.json
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.runtimeconfig.json
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.dll
+C:\Users\rubem\source\repos\Uri1080\Uri1080\bin\Debug\netcoreapp3.1\Uri1080.pdb
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.dll
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.pdb
+C:\Users\rubem\source\repos\Uri1080\Uri1080\obj\Debug\netcoreapp3.1\Uri1080.genruntimeconfig.cache
